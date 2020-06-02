@@ -25,7 +25,7 @@ class _CompassState extends State<Compass> {
     return Scaffold(
       backgroundColor: Colors.white,
       appBar: AppBar(
-        title: const Text('Flutter Compass'),
+        title: const Text('Compass'),
       ),
       body: Builder(builder: (context) {
         if (_hasPermissions) {
@@ -48,7 +48,7 @@ class _CompassState extends State<Compass> {
       child: Row(
         children: <Widget>[
           OutlineButton(
-            child: Text('Lihat koordinat'),
+            child: Text('Koordinatları görün'),
             onPressed: () async {
               final double tmp = await FlutterCompass.events.first;
               setState(() {

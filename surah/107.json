@@ -17,14 +17,13 @@
             "id": {
                 "name": "Barang Yang Berguna",
                 "text": {
-                    "1": "Tahukah kamu (orang) yang mendustakan agama?",
-                    "2": "Maka itulah orang yang menghardik anak yatim,",
-                    "3": "dan tidak mendorong memberi makan orang miskin.",
-                    "4": "Maka celakalah orang yang salat,",
-                    "5": "(yaitu) orang-orang yang lalai terhadap salatnya,",
-                    "6": "yang berbuat ria,",
-                    "7": "dan enggan (memberikan) bantuan."
-                }
+                    "1":"Gördüm mü yalanlayanı dini?",
+                    "2":"İşte budur o kimse ki horlar yetimi.",
+                    "3":"Ve doyurmaz da, önayak olmaz da doyurmaya yoksulu.",
+                    "4":"Vay hallerine o namaz kılanların.",
+                    "5":"Öylesine namaz kılanların ki namazlarını unuturlar.",
+                    "6":"Ve onlar, bütün işlerini gösteriş için yaparlar.",
+                    "7":"Ve zekat vermeyi menederler."                     }
             }
         },
         "tafsir": {

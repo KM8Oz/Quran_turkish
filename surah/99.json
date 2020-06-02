@@ -18,15 +18,14 @@
             "id": {
                 "name": "Guncangan",
                 "text": {
-                    "1": "Apabila bumi diguncangkan dengan guncangan yang dahsyat,",
-                    "2": "dan bumi telah mengeluarkan beban-beban berat (yang dikandung)nya,",
-                    "3": "Dan manusia bertanya, “Apa yang terjadi pada bumi ini?”",
-                    "4": "Pada hari itu bumi menyampaikan beritanya,",
-                    "5": "karena sesungguhnya Tuhanmu telah memerintahkan (yang sedemikian itu) padanya.",
-                    "6": "Pada hari itu manusia keluar dari kuburnya dalam keadaan berkelompok-kelompok, untuk diperlihatkan kepada mereka (balasan) semua perbuatannya.",
-                    "7": "Maka barangsiapa mengerjakan kebaikan seberat zarrah, niscaya dia akan melihat (balasan)nya,",
-                    "8": "dan barangsiapa mengerjakan kejahatan seberat zarrah, niscaya dia akan melihat (balasan)nya."
-                }
+                    "1":"Yeryüzü, şiddetli bir depremle sarsılınca.",
+                    "2":"Ve yeryüzü, ağırlıklarını çıkarınca.",
+                    "3":"Ve insan, ne oluyor ki buna deyince.",
+                    "4":"O gün, bütün haberlerini anlatınca.",
+                    "5":"Çünkü Rabbin, vahyetmiştir, bildirmiştir ona.",
+                    "6":"O gün insanlar, gittikleri yerden gelirler, yaptıklarını görmek için.",
+                    "7":"Artık kim, bir zerre ağırlığı hayır yapmışsa görür onu.",
+                    "8":"Ve kim, bir zerre ağırlığı şer yapmışsa görür onu."                      }
             }
         },
         "tafsir": {

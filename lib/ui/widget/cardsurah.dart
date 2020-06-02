@@ -1,4 +1,4 @@
-import 'package:alqurani/data/utils/style.dart';
+import 'package:Quran/data/utils/style.dart';
 import 'package:flutter/material.dart';
 
 class CardSurah extends StatelessWidget {

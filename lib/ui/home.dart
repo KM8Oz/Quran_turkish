@@ -1,11 +1,11 @@
-import 'package:alqurani/data/utils/data.dart';
-import 'package:alqurani/data/utils/style.dart';
-import 'package:alqurani/ui/about.dart';
-import 'package:alqurani/ui/listpage/ayatkursi.dart';
-import 'package:alqurani/ui/listpage/jadwalsholat.dart';
-import 'package:alqurani/ui/listpage/listalquran.dart';
-import 'package:alqurani/ui/listpage/listasmaul.dart';
-import 'package:alqurani/ui/listpage/listdoa.dart';
+import 'package:Quran/data/utils/data.dart';
+import 'package:Quran/data/utils/style.dart';
+import 'package:Quran/ui/about.dart';
+import 'package:Quran/ui/listpage/ayatkursi.dart';
+import 'package:Quran/ui/listpage/jadwalsholat.dart';
+import 'package:Quran/ui/listpage/listalquran.dart';
+import 'package:Quran/ui/listpage/listasmaul.dart';
+import 'package:Quran/ui/listpage/listdoa.dart';
 import 'package:flutter/material.dart';
 import 'package:firebase_admob/firebase_admob.dart';
 
@@ -19,12 +19,12 @@ class _HomeState extends State<Home> with SingleTickerProviderStateMixin {
 
   static const MobileAdTargetingInfo targetingInfo = MobileAdTargetingInfo(
     keywords: <String>[
-      'islami',
-      'alquran',
-      'kompas',
-      'doa',
-      'terjemahan',
-      'tafsir'
+      'İslam',
+      'Quran',
+      'pusula',
+      'dua',
+      'Çevirmek',
+      'yorumlama'
     ],
     childDirected: true,
     nonPersonalizedAds: false,

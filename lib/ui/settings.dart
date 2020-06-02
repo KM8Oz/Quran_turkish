@@ -1,7 +1,7 @@
-import 'package:alqurani/data/location.dart';
-import 'package:alqurani/data/themes.dart';
-import 'package:alqurani/data/uistate.dart';
-import 'package:alqurani/ui/widget/cardsetting.dart';
+import 'package:Quran/data/location.dart';
+import 'package:Quran/data/themes.dart';
+import 'package:Quran/data/uistate.dart';
+import 'package:Quran/ui/widget/cardsetting.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
@@ -28,7 +28,7 @@ class _SettingsState extends State<Settings> {
         body: Column(
           children: <Widget>[
             ListTile(
-              title: Text('Lokasi'),
+              title: Text('yer'),
               subtitle: Text(loc.location),
               trailing: IconButton(
                 icon: Icon(Icons.gps_fixed),
@@ -36,28 +36,28 @@ class _SettingsState extends State<Settings> {
               ),
             ),
             CardSetting(
-              title: 'Tema Gelap',
+              title: 'Koyu tema',
               leading: Switch(
                 value: dark.darkmode,
                 onChanged: (newValue) => dark.switchTheme(newValue),
               ),
             ),
             CardSetting(
-              title: 'Terjemahan',
+              title: 'Çevirmek',
               leading: Switch(
                 value: ui.terjemahan,
                 onChanged: (newValue) => ui.terjemahan = newValue,
               ),
             ),
             CardSetting(
-              title: 'Tafsir',
+              title: 'yorum',
               leading: Switch(
                 value: ui.tafsir,
                 onChanged: (newValue) => ui.tafsir = newValue,
               ),
             ),
             CardSlider(
-              title: 'Ukuran teks arab',
+              title: 'Arapça metin boyutu',
               slider: Slider(
                 min: 0.5,
                 value: ui.sliderFontSize,
@@ -66,7 +66,7 @@ class _SettingsState extends State<Settings> {
               trailing: ui.fontSize.toInt().toString(),
             ),
             CardSlider(
-              title: 'Ukuran teks terjemahan',
+              title: 'Çeviri metni boyutu',
               slider: Slider(
                 min: 0.4,
                 value: ui.sliderFontSizetext,

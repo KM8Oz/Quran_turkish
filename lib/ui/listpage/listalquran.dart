@@ -1,7 +1,7 @@
-import 'package:alqurani/data/models/surahinfo.dart';
-import 'package:alqurani/data/services.dart';
-import 'package:alqurani/ui/detailsurah.dart';
-import 'package:alqurani/ui/widget/cardsurah.dart';
+import 'package:Quran/data/models/surahinfo.dart';
+import 'package:Quran/data/services.dart';
+import 'package:Quran/ui/detailsurah.dart';
+import 'package:Quran/ui/widget/cardsurah.dart';
 import 'package:flutter/material.dart';
 import 'package:pk_skeleton/pk_skeleton.dart';
 

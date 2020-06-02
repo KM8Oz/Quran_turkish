@@ -15,13 +15,13 @@
         },
         "translations": {
           "id": {
-            "name": "Gajah",
+            "name": "",
             "text": {
-              "1": "Tidakkah engkau (Muhammad) perhatikan bagaimana Tuhanmu telah bertindak terhadap pasukan bergajah?",
-              "2": "Bukankah Dia telah menjadikan tipu daya mereka itu sia-sia?",
-              "3": "dan Dia mengirimkan kepada mereka burung yang berbondong-bondong,",
-              "4": "yang melempari mereka dengan batu dari tanah liat yang dibakar,",
-              "5": "sehingga mereka dijadikan-Nya seperti daun-daun yang dimakan (ulat)."
+              "1":"Fil ashabına Rabbin ne yaptı, neler etti, görmedin mi?",
+              "2":"Düzenlerini boşa çıkarmadı mı?",
+              "3":"Ve onlara, çeşitli yerlerden bölükbölük, birbiri ardınca kuşlar göndermedi mi?",
+              "4":"Onları, balçıktan taşlarla taşladılar.",
+              "5":"Onlar da içi boş ekin saplarına, kırılıp ezilmiş samanlara döndüler."    
             }
           }
         }
@@ -43,16 +43,16 @@
         },
         "translations": {
           "id": {
-            "name": "Bermegah-Megahan",
+            "name": "",
             "text": {
-              "1": "Bermegah-megahan telah melalaikan kamu,",
-              "2": "sampai kamu masuk ke dalam kubur.",
-              "3": "Sekali-kali tidak! Kelak kamu akan mengetahui (akibat perbuatanmu itu),",
-              "4": "kemudian sekali-kali tidak! Kelak kamu akan mengetahui.",
-              "5": "Sekali-kali tidak! Sekiranya kamu mengetahui dengan pasti,",
-              "6": "niscaya kamu benar-benar akan melihat neraka Jahim,",
-              "7": "kemudian kamu benar-benar akan melihatnya dengan mata kepala sendiri,",
-              "8": "kemudian kamu benar-benar akan ditanya pada hari itu tentang kenikmatan (yang megah di dunia itu)."
+              "1":"Oyaladı mal-mülk çokluğuyla öğünmek sizleri.",
+              "2":"Ziyaret edinceye dek kabirleri.",
+              "3":"İş öyle değil, yakında bilirsiniz.",
+              "4":"Sonra da gene iş öyle değil, yakında bilirsiniz.",
+              "5":"İş öyle değil, şüphesiz olarak iyideniyiye bir bilseniz.",
+              "6":"Andolsun ki o koca cehennemi göreceksiniz.",
+              "7":"Sonra da andolsun ki gözlerinizle göreceksiniz.",
+              "8":"Sonra da andolsun ki o gün nimetlerden soruya çekileceksiniz."   
             }
           }
         }
@@ -69,12 +69,11 @@
         },
         "translations": {
           "id": {
-            "name": "Asar",
+            "name": "",
             "text": {
-              "1": "Demi masa,",
-              "2": "sungguh, manusia berada dalam kerugian,",
-              "3": "kecuali orang-orang yang beriman dan mengerjakan kebajikan serta saling menasihati untuk kebenaran dan saling menasihati untuk kesabaran."
-            }
+              "1":"Andolsun zamana.",
+              "2":"Şüphe yok ki insan, elbette zararda, ziyanda.",
+              "3":"Ancak inananlar ve iyi işlerde bulunanlar ve birbirlerine gerçeği gözetmeyi ve sabretmeyi tavsiye edenler başka."             }
           }
         },
         "4": {
@@ -90,13 +89,12 @@
           },
           "translations": {
             "id": {
-              "name": "Quraisy",
+              "name": "",
               "text": {
-                "1": "Karena kebiasaan orang-orang Quraisy,",
-                "2": "(yaitu) kebiasaan mereka bepergian pada musim dingin dan musim panas.",
-                "3": "Maka hendaklah mereka menyembah Tuhan (pemilik) rumah ini (Ka‘bah),",
-                "4": "yang telah memberi makanan kepada mereka untuk menghilangkan lapar dan mengamankan mereka dari rasa ketakutan."
-              }
+                "1":"Bunu da Kurayş'ın uzlaşması, hallerinin düzene girmesi için yaptı.",
+                "2":"Yaz ve kış, alışveriş için göçüp konarak yolculuk ederlerken uzlaşıp düzene girmeleri için.",
+                "3":"Artık kulluk edin bu evin Rabbine.",
+                "4":"Öyle Rab ki doyurdu da kurtardı sizi açlıktan ve emin etti sizi korkudan."        }
             }
           }
         },
@@ -116,15 +114,15 @@
           },
           "translations": {
             "id": {
-              "name": "Barang Yang Berguna",
+              "name": "",
               "text": {
-                "1": "Tahukah kamu (orang) yang mendustakan agama?",
-                "2": "Maka itulah orang yang menghardik anak yatim,",
-                "3": "dan tidak mendorong memberi makan orang miskin.",
-                "4": "Maka celakalah orang yang salat,",
-                "5": "(yaitu) orang-orang yang lalai terhadap salatnya,",
-                "6": "yang berbuat ria,",
-                "7": "dan enggan (memberikan) bantuan."
+                "1":"Gördüm mü yalanlayanı dini?",
+                "2":"İşte budur o kimse ki horlar yetimi.",
+                "3":"Ve doyurmaz da, önayak olmaz da doyurmaya yoksulu.",
+                "4":"Vay hallerine o namaz kılanların.",
+                "5":"Öylesine namaz kılanların ki namazlarını unuturlar.",
+                "6":"Ve onlar, bütün işlerini gösteriş için yaparlar.",
+                "7":"Ve zekat vermeyi menederler."   
               }
             }
           }

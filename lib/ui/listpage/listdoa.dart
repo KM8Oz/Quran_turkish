@@ -1,7 +1,7 @@
-import 'package:alqurani/data/models/alldoa.dart';
-import 'package:alqurani/data/services.dart';
-import 'package:alqurani/data/uistate.dart';
-import 'package:alqurani/ui/widget/carddoa.dart';
+import 'package:Quran/data/models/alldoa.dart';
+import 'package:Quran/data/services.dart';
+import 'package:Quran/data/uistate.dart';
+import 'package:Quran/ui/widget/carddoa.dart';
 import 'package:flutter/material.dart';
 import 'package:pk_skeleton/pk_skeleton.dart';
 import 'package:provider/provider.dart';

@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:geolocator/geolocator.dart';
 
 class LocationNotifier with ChangeNotifier {
-  var location = "Jakarta";
+   String location;
 
   void locationNow() async {
     List<Placemark> placemark;

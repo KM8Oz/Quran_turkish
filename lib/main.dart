@@ -1,10 +1,10 @@
-import 'package:alqurani/data/location.dart';
-import 'package:alqurani/data/themes.dart';
-import 'package:alqurani/data/uistate.dart';
-import 'package:alqurani/ui/about.dart';
-import 'package:alqurani/ui/compass.dart';
-import 'package:alqurani/ui/home.dart';
-import 'package:alqurani/ui/settings.dart';
+import 'package:Quran/data/location.dart';
+import 'package:Quran/data/themes.dart';
+import 'package:Quran/data/uistate.dart';
+import 'package:Quran/ui/about.dart';
+import 'package:Quran/ui/compass.dart';
+import 'package:Quran/ui/home.dart';
+import 'package:Quran/ui/settings.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
@@ -19,7 +19,6 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Alqurani',
       theme: Provider.of<ThemeNotifier>(context).curretThemeData,
       initialRoute: '/',
       routes: {

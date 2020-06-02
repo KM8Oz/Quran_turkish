@@ -16,13 +16,12 @@
             "id": {
                 "name": "Orang-Orang kafir",
                 "text": {
-                    "1": "Katakanlah (Muhammad), “Wahai orang-orang kafir!",
-                    "2": "aku tidak akan menyembah apa yang kamu sembah,",
-                    "3": "dan kamu bukan penyembah apa yang aku sembah,",
-                    "4": "dan aku tidak pernah menjadi penyembah apa yang kamu sembah,",
-                    "5": "dan kamu tidak pernah (pula) menjadi penyembah apa yang aku sembah.",
-                    "6": "Untukmu agamamu, dan untukku agamaku.”"
-                }
+                    "1":"De ki: Ey kafirler.",
+                    "2":"Tapmam sizin taptıklarınıza.",
+                    "3":"Ve siz de tapmazsınız benim taptığıma.",
+                    "4":"Ve ne ben taparım sizin taptıklarınıza.",
+                    "5":"Ve ne siz taparsınız benim taptığıma.",
+                    "6":"Size, sizin dininiz, bana, benim dinim."                      }
             }
         },
         "tafsir": {

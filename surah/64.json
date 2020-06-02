@@ -28,25 +28,24 @@
             "id": {
                 "name": "Pengungkapan Kesalahan",
                 "text": {
-                    "1": "Apa yang ada di langit dan apa yang ada di bumi senantiasa bertasbih kepada Allah; milik-Nya semua kerajaan dan bagi-Nya (pula) segala puji; dan Dia Mahakuasa atas segala sesuatu. ",
-                    "2": "Dialah yang menciptakan kamu, lalu di antara kamu ada yang kafir dan di antara kamu (juga) ada yang mukmin. Dan Allah Maha Melihat apa yang kamu kerjakan.",
-                    "3": "Dia menciptakan langit dan bumi dengan (tujuan) yang benar, Dia membentuk rupamu lalu memperbagus rupamu, dan kepada-Nya tempat kembali. ",
-                    "4": "Dia mengetahui apa yang di langit dan di bumi, dan mengetahui apa yang kamu rahasiakan dan apa yang kamu nyatakan. Dan Allah Maha Mengetahui segala isi hati. ",
-                    "5": "Apakah belum sampai kepadamu (orang-orang kafir) berita orang-orang kafir dahulu? Maka mereka telah merasakan akibat buruk dari perbuatannya dan mereka memperoleh azab yang pedih. ",
-                    "6": "Yang demikian itu karena sesungguhnya ketika rasul-rasul datang kepada mereka (membawa) keterangan-ke-terangan lalu mereka berkata, “Apakah  (pantas) manusia yang memberi petunjuk kepada kami?” Lalu mereka ingkar dan berpaling; padahal Allah tidak memerlukan (mereka). Dan Allah Mahakaya, Maha Terpuji. ",
-                    "7": "Orang-orang yang kafir mengira, bahwa mereka tidak akan dibangkitkan. Katakanlah (Muhammad), “Tidak demikian, demi Tuhanku, kamu pasti dibangkitkan, kemudian diberitakan semua yang telah kamu kerjakan.” Dan yang demikian itu mudah bagi Allah. ",
-                    "8": "Maka berimanlah kamu kepada Allah dan Rasul-Nya dan kepada cahaya (Al-Qur'an) yang telah Kami turunkan. Dan Allah Mahateliti terhadap apa yang kamu kerjakan.",
-                    "9": "(Ingatlah) pada hari (ketika) Allah mengumpulkan kamu pada hari berhimpun, itulah hari pengungkapan kesalahan-kesalahan. Dan barangsiapa beriman kepada Allah dan mengerjakan kebajikan niscaya Allah akan menghapus kesalahan-kesalahannya dan memasukkannya ke dalam surga yang mengalir di bawahnya sungai-sungai, mereka kekal di dalamnya selama-lamanya. Itulah kemenangan yang agung. ",
-                    "10": "Dan orang-orang yang kafir dan mendustakan ayat-ayat Kami, mereka itulah penghuni neraka, mereka kekal di dalamnya. Dan itulah seburuk-buruk tempat kembali. ",
-                    "11": "Tidak ada sesuatu musibah yang menimpa (seseorang), kecuali dengan izin Allah; dan barangsiapa beriman kepada Allah, niscaya Allah akan memberi petunjuk kepada hatinya. Dan Allah Maha Mengetahui segala sesuatu. ",
-                    "12": "Dan taatlah kepada Allah dan taatlah kepada Rasul. Jika kamu berpaling maka sesungguhnya kewajiban Rasul Kami hanyalah menyampaikan (amanah Allah) dengan terang. ",
-                    "13": "(Dialah) Allah, tidak ada tuhan selain Dia. Dan hendaklah orang-orang mukmin bertawakal kepada Allah.",
-                    "14": "Wahai orang-orang yang beriman! Sesungguhnya di antara istri-istrimu dan anak-anakmu ada yang menjadi musuh bagimu, maka berhati-hatilah kamu terhadap mereka; dan jika kamu maafkan dan kamu santuni serta ampuni (mereka), maka sungguh, Allah Maha Pengampun, Maha Penyayang.",
-                    "15": "Sesungguhnya hartamu dan anak-anakmu hanyalah cobaan (bagimu), dan di sisi Allah pahala yang besar. ",
-                    "16": "Maka bertakwalah kamu kepada Allah menurut kesanggupanmu dan dengarlah serta taatlah; dan infakkanlah harta yang baik untuk dirimu. Dan barang-siapa dijaga dirinya dari kekikiran, mereka itulah orang-orang yang beruntung. ",
-                    "17": "Jika kamu meminjamkan kepada Allah dengan pinjaman yang baik, niscaya Dia melipatgandakan (balasan) untukmu dan mengampuni kamu. Dan Allah Maha Mensyukuri, Maha Penyantun.",
-                    "18": "Yang Mengetahui yang gaib dan yang nyata. Yang Mahaperkasa, Mahabijaksana."
-                }
+                    "1":"Tenzih eder Allah'ı, ne varsa göklerde ve ne varsa yeryüzünde, onundur saltanat ve tedbir ve onadır hamd ve onun, her şeye gücü yeter.",
+                    "2":"O, öyle bir mabuttur ki sizi yaratmıştır da sizden kafir olan da vardır, inanan da ve Allah, ne yapıyorsanız görür.",
+                    "3":"Yaratmıştır gökleri ve yeryüzünü gerçek olarak ve size suret vermiştir ve suretinizi de en güzel bir tarzda meydana getirmiştir ve sonunda da dönülüp gidilecek yer, onun tapısıdır.",
+                    "4":"Bilir ne varsa göklerde ve ne varsa yeryüzünde ve bilir neyi gizlerseniz ve neyi açığa vurursanız ve Allah, gönüllerde olanı da bilir.",
+                    "5":"Daha önce kafir olanların haberi gelmedi mi size? Yaptıkları işin vebalini tattılar ve onlara elemli bir azap var.",
+                    "6":"Bu da, peygamberlerinin, apaçık delillerle onlara geldikleri halde onların, bir insan mı bize doğru yolu gösterecek deyip de kafir olmalarından ve yüz çevirmelerindendir ve Allah da onlardan müstağni olduğunu göstermiştir ve Allah, müstağnidir ve hamde layık, odur.",
+                    "7":"Kafir olanlar, sanırlar ki öldükten sonra dirilmeyecekler kesin olarak; de ki: Evet ve Rabbime andolsun ki elbette dirileceksiniz, sonra da ne yaptıysanız size haber verilecek ve bu, Allah'a pek kolaydır.",
+                    "8":"Artık inanın Allah'a ve Peygamberine ve indirdiğimiz nura ve Allah, ne yapıyorsanız hepsinden de haberdardır.",
+                    "9":"O gün, sizi toplantı günü için bir araya getirecektir ve bugün, aldananın, aldatanın, kar ve ziyan edenin meydana çıkacağı gündür ve kim inanırsa Allah'a ve iyi işlerde bulunursa onun kötülüklerini örter ve kıyılarından ırmaklar akan cennetlere, ebedi kalmak üzere sokar onu; bu, pek büyük bir kurtuluş, kutluluk ve murada eriştir.",
+                    "10":"Ve kafir olan ve delillerimizi yalanlayanlarsa cehennemliklerdir, ebedi kalırlar orada ve orası, dönüp varılacak ne kötü yerdir.",
+                    "11":"Hiçbir felaket, Allah'ın izni olmadıkça gelip çatmaz ve kim inanırsa Allah'a, o da, onun gönlüne doğru yolu ilham eder ve Allah, her şeyi bilir.",
+                    "12":"Ve itaat edin Allah'a ve Peygambere; yüz çevirecek olursanız artık Peygamberimize düşen vazife, ancak apaçık tebliğden ibarettir.",
+                    "13":"Bir Allah'tır ki yoktur ondan başka tapacak ve artık Allah'a dayansın inananlar.",
+                    "14":"Ey inananlar, şüphe yok ki eşlerinizin ve evlatlarınızın bazısı, düşmandır size, artık sakının onlardan ve bağışlar ve yüzlerine vurmaz ve suçlarını örterseniz artık bilin ki Allah, suçları örter, rahimdir.",
+                    "15":"Mallarınız ve evlatlarınız, bir sınamadır size ancak ve Allah katındaysa pek büyük bir mükafat var.",
+                    "16":"Artık çekinin Allah'tan gücünüz yettiği kadar ve dinleyin ve itaat edin ve mallarınızı harcayın hayır yolunda, sizin için hayırlıdır ve kimler, nefsinin hırsından, nekesliğinden korunursa artık onlardır kurtulanların, muratlarına erenlerin ta kendileri.",
+                    "17":"Eğer Allah'a güzel bir tarzda borç verirseniz o, verdiğinizi katkat arttırır size ve suçlarınızı örter ve Allah, iyilik edenlere fazlasıyla mükafat verir, azaplandırmada da aceleci değildir.",
+                    "18":"Gizliyi de bilir, görüneni de, üstündür, hüküm ve hikmet sahibidir."                      }
             }
         },
         "tafsir": {

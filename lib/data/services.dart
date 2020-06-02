@@ -1,11 +1,11 @@
 import 'dart:convert';
 
-import 'package:alqurani/data/models/allasmaul.dart';
-import 'package:alqurani/data/models/alldoa.dart';
-import 'package:alqurani/data/models/allsurah.dart';
-import 'package:alqurani/data/models/ayatkursi.dart';
-import 'package:alqurani/data/models/jadwalsholat.dart';
-import 'package:alqurani/data/models/surahinfo.dart';
+import 'package:Quran/data/models/allasmaul.dart';
+import 'package:Quran/data/models/alldoa.dart';
+import 'package:Quran/data/models/allsurah.dart';
+import 'package:Quran/data/models/ayatkursi.dart';
+import 'package:Quran/data/models/jadwalsholat.dart';
+import 'package:Quran/data/models/surahinfo.dart';
 import 'package:flutter/services.dart';
 import 'package:http/http.dart' as http;
 

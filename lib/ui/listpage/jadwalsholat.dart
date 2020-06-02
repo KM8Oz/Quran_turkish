@@ -1,7 +1,7 @@
-import 'package:alqurani/data/location.dart';
-import 'package:alqurani/data/models/jadwalsholat.dart';
-import 'package:alqurani/data/services.dart';
-import 'package:alqurani/data/utils/style.dart';
+import 'package:Quran/data/location.dart';
+import 'package:Quran/data/models/jadwalsholat.dart';
+import 'package:Quran/data/services.dart';
+import 'package:Quran/data/utils/style.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 

@@ -18,15 +18,14 @@
             "id": {
                 "name": "Bermegah-Megahan",
                 "text": {
-                    "1": "Bermegah-megahan telah melalaikan kamu,",
-                    "2": "sampai kamu masuk ke dalam kubur.",
-                    "3": "Sekali-kali tidak! Kelak kamu akan mengetahui (akibat perbuatanmu itu),",
-                    "4": "kemudian sekali-kali tidak! Kelak kamu akan mengetahui.",
-                    "5": "Sekali-kali tidak! Sekiranya kamu mengetahui dengan pasti,",
-                    "6": "niscaya kamu benar-benar akan melihat neraka Jahim,",
-                    "7": "kemudian kamu benar-benar akan melihatnya dengan mata kepala sendiri,",
-                    "8": "kemudian kamu benar-benar akan ditanya pada hari itu tentang kenikmatan (yang megah di dunia itu)."
-                }
+                    "1":"Oyaladı mal-mülk çokluğuyla öğünmek sizleri.",
+                    "2":"Ziyaret edinceye dek kabirleri.",
+                    "3":"İş öyle değil, yakında bilirsiniz.",
+                    "4":"Sonra da gene iş öyle değil, yakında bilirsiniz.",
+                    "5":"İş öyle değil, şüphesiz olarak iyideniyiye bir bilseniz.",
+                    "6":"Andolsun ki o koca cehennemi göreceksiniz.",
+                    "7":"Sonra da andolsun ki gözlerinizle göreceksiniz.",
+                    "8":"Sonra da andolsun ki o gün nimetlerden soruya çekileceksiniz."                     }
             }
         },
         "tafsir": {

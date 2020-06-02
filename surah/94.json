@@ -18,15 +18,15 @@
             "id": {
                 "name": "Lapang",
                 "text": {
-                    "1": "Bukankah Kami telah melapangkan dadamu (Muhammad)?",
-                    "2": "dan Kami pun telah menurunkan bebanmu darimu,",
-                    "3": "yang memberatkan punggungmu, ",
-                    "4": "dan Kami tinggikan sebutan (nama)mu bagimu.",
-                    "5": "Maka sesungguhnya beserta kesulitan ada kemudahan,",
-                    "6": "sesungguhnya beserta kesulitan itu ada kemudahan.",
-                    "7": "Maka apabila engkau telah selesai (dari sesuatu urusan), tetaplah bekerja keras (untuk urusan yang lain),",
-                    "8": "dan hanya kepada Tuhanmulah engkau berharap."
-                }
+                    "1":"Senin göğsünü açıp genişletmedik mi?",
+                    "2":"Ve senin yükünü kaldırıp attık.",
+                    "3":"Öylesine yük ki çökertmişti belini.",
+                    "4":"Ve adını yücelttik.",
+                    "5":"Artık şüphe yok ki her güçlükle beraber bir de kolaylık var.",
+                    "6":"Şüphe yok ki her güçlükle beraber bir de kolaylık var.",
+                    "7":"Artık sen de ibadeti bitirince yorul.",
+                    "8":"Ve ancak Rabbinden iste, ona doğrul."
+                    }
             }
         },
         "tafsir": {

@@ -15,11 +15,13 @@
             "id": {
                 "name": "Kemuliaan",
                 "text": {
-                    "1": "Sesungguhnya Kami telah menurunkannya (Al-Qur'an) pada malam qadar.",
-                    "2": "Dan tahukah kamu apakah malam kemuliaan itu?",
-                    "3": "Malam kemuliaan itu lebih baik daripada seribu bulan.",
-                    "4": "Pada malam itu turun para malaikat dan Ruh (Jibril) dengan izin Tuhannya untuk mengatur semua urusan.",
-                    "5": "Sejahteralah (malam itu) sampai terbit fajar."
+            
+"1":"Şüphe yok ki indirdik Kur'an'ı Kadir gecesi.",
+"2":"Ve ne bildirdi sana, nedir Kadir gecesi?",
+"3":"Bin aydan daha da hayırlıdır Kadir gecesi.",
+"4":"O gece melekler ve Ruh, takdir edilen her iş için, Rablerinin izniyle inerler.",
+"5":"Esenliktir, o gece, gün ışığıncaya dek sürer."
+
                 }
             }
         },

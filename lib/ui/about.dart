@@ -48,25 +48,25 @@ class _AboutState extends State<About> {
               elevation: 0,
               child: ListTile(
                 title: Text('Quran'),
-                trailing: Text('@rioastamal'),
+                trailing: Text('________'),
               ),
             ),
             Card(
               elevation: 0,
               child: ListTile(
-                title: Text('Asmaul Husna'),
-                trailing: Text('jagad.id'),
+                title: Text('________'),
+                trailing: Text('_______'),
               ),
             ),
             Card(
               elevation: 0,
               child: ListTile(
                 title: Text('Application'),
-                trailing: Text('Duende by fiaz luthfi'),
+                trailing: Text('__________'),
               ),
             ),
             Spacer(),
-            Center(child: Text('Made With Love in Bandung')),
+            Center(child: Text('Made With Love in _______')),
           ],
         ),
       ),
