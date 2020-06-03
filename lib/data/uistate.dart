@@ -20,17 +20,14 @@ class UiState with ChangeNotifier {
   }
   double get fontSizetext => textsize * 35;
   double get sliderFontSizetext => textsize;
-
   set terjemahan(newValue) {
     translate = newValue;
     notifyListeners();
   }
   bool get terjemahan => translate;
-
   set tafsir(newValue){
     makna = newValue;
     notifyListeners();
   }
   bool get tafsir => makna;
-
 }

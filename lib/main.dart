@@ -9,9 +9,9 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
 void main() => runApp(MultiProvider(providers: [
-      ChangeNotifierProvider(builder: (_) => UiState()),
-      ChangeNotifierProvider(builder: (_) => ThemeNotifier()),
-      ChangeNotifierProvider(builder: (_) => LocationNotifier()),
+      ChangeNotifierProvider(builder: (_) => UiState(), create: (BuildContext context) {  },),
+      ChangeNotifierProvider(builder: (_) => ThemeNotifier(), create: (BuildContext context) {  },),
+      ChangeNotifierProvider(builder: (_) => LocationNotifier(), create: (BuildContext context) {  },),
     ], child: MyApp()));
 
 class MyApp extends StatelessWidget {

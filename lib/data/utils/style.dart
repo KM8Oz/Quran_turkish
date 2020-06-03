@@ -7,7 +7,7 @@ class AppStyle {
     Color(0xffb6f492),
   ]);
   static final title = TextStyle(fontSize: 20.0, fontWeight: FontWeight.bold);
-  static final subtitle = TextStyle(fontSize: 14.0, color: Colors.green);
+  static final subtitle = TextStyle(fontSize: 14.0, color: Colors.blue.shade400);
   static final end2subtitle = TextStyle(
       fontSize: 12.0, color: Colors.grey[700], fontWeight: FontWeight.bold);
 

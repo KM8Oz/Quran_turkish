@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.alqurani">
+    package="com.mysite.qurantr">
 
     <!-- io.flutter.app.FlutterApplication is an android.app.Application that
          calls FlutterMain.startInitialization(this); in its onCreate method.
@@ -13,7 +13,7 @@
     
     <application
         android:name="io.flutter.app.FlutterApplication"
-        android:label="Alqurani"
+        android:label="qurantr"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
@@ -29,9 +29,9 @@
             <meta-data
                 android:name="io.flutter.app.android.SplashScreenUntilFirstFrame"
                 android:value="true" />
-            <meta-data
-                android:name="com.google.android.gms.ads.id.duende.alqurani"
-                android:value="ca-app-pub-8821032108500398~1554112871" />   
+            <!-- <meta-data
+                android:name=""
+                android:value="" />    -->
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
                 <category android:name="android.intent.category.LAUNCHER"/>
