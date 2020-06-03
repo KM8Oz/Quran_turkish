@@ -1,4 +1,4 @@
-package com.example.alqurani
+package com.mysite.qurantr
 
 import android.os.Bundle
 

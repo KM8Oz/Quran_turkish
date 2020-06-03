@@ -2,7 +2,6 @@ import 'package:Quran/data/utils/data.dart';
 import 'package:Quran/data/utils/style.dart';
 import 'package:Quran/ui/about.dart';
 import 'package:Quran/ui/listpage/ayatkursi.dart';
-import 'package:Quran/ui/listpage/jadwalsholat.dart';
 import 'package:Quran/ui/listpage/listalquran.dart';
 import 'package:Quran/ui/listpage/listasmaul.dart';
 import 'package:Quran/ui/listpage/listdoa.dart';
@@ -57,7 +56,7 @@ class _HomeState extends State<Home> with SingleTickerProviderStateMixin {
   @override
   void initState() {
     super.initState();
-    _tabController = TabController(initialIndex: 0, length: 5, vsync: this);
+    _tabController = TabController(initialIndex: 0, length: 4, vsync: this);
     // FirebaseAdMob.instance.initialize(appId: FirebaseAdMob.testAppId);
     // _bannerAd = createBannerAd()..load();
     // RewardedVideoAd.instance.listener =
@@ -129,15 +128,6 @@ class _HomeState extends State<Home> with SingleTickerProviderStateMixin {
                   tabs: [
                     Tab(
                       child: Text(
-                        'Jadwal Sholat',
-                        style: TextStyle(
-                          fontSize: 16.0,
-                          fontWeight: FontWeight.bold,
-                        ),
-                      ),
-                    ),
-                    Tab(
-                      child: Text(
                         'Alquran',
                         style: TextStyle(
                           fontSize: 16.0,
@@ -180,7 +170,6 @@ class _HomeState extends State<Home> with SingleTickerProviderStateMixin {
           body: TabBarView(
             controller: _tabController,
             children: <Widget>[
-              JadwalSholat(),
               ListAlquran(),
               ListDoa(),
               ListAsmaul(),
@@ -206,12 +195,12 @@ class Drawers extends StatelessWidget {
             children: <Widget>[
               Spacer(),
               Text(
-                'Alqurani',
+                'QuranTr',
                 style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
               ),
               AppStyle.spaceH5,
               Text(
-                'By Duende, Fiaz Luthfi',
+                '______________',
                 style: TextStyle(fontSize: 10),
               ),
             ],
@@ -226,7 +215,7 @@ class Drawers extends StatelessWidget {
             trailing: Icon(Icons.keyboard_arrow_right),
             onTap: () => Navigator.popAndPushNamed(context, '/settings')),
         ListTile(
-            title: Text('Arah Kiblat'),
+            title: Text('Kiblat'),
             trailing: Icon(Icons.keyboard_arrow_right),
             onTap: () => Navigator.popAndPushNamed(context, '/kiblah')),
       ],

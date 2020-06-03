@@ -1,4 +1,4 @@
-import 'package:Quran/data/location.dart';
+
 import 'package:Quran/data/themes.dart';
 import 'package:Quran/data/uistate.dart';
 import 'package:Quran/ui/about.dart';
@@ -9,9 +9,8 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
 void main() => runApp(MultiProvider(providers: [
-      ChangeNotifierProvider(builder: (_) => UiState(), create: (BuildContext context) {  },),
-      ChangeNotifierProvider(builder: (_) => ThemeNotifier(), create: (BuildContext context) {  },),
-      ChangeNotifierProvider(builder: (_) => LocationNotifier(), create: (BuildContext context) {  },),
+      ChangeNotifierProvider(create: (_) => UiState()),
+      ChangeNotifierProvider(create: (_) => ThemeNotifier(),),
     ], child: MyApp()));
 
 class MyApp extends StatelessWidget {

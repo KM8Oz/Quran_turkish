@@ -1,4 +1,4 @@
-import 'package:Quran/data/location.dart';
+
 import 'package:Quran/data/themes.dart';
 import 'package:Quran/data/uistate.dart';
 import 'package:Quran/ui/widget/cardsetting.dart';
@@ -15,7 +15,6 @@ class _SettingsState extends State<Settings> {
   Widget build(BuildContext context) {
     var ui = Provider.of<UiState>(context);
     var dark = Provider.of<ThemeNotifier>(context);
-    var loc = Provider.of<LocationNotifier>(context);
     return Scaffold(
         appBar: AppBar(
           leading: IconButton(
@@ -27,14 +26,6 @@ class _SettingsState extends State<Settings> {
         ),
         body: Column(
           children: <Widget>[
-            ListTile(
-              title: Text('yer'),
-              subtitle: Text(loc.location),
-              trailing: IconButton(
-                icon: Icon(Icons.gps_fixed),
-                onPressed: () => loc.locationNow(),
-              ),
-            ),
             CardSetting(
               title: 'Koyu tema',
               leading: Switch(

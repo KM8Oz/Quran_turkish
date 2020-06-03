@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_compass/flutter_compass.dart';
 import 'dart:math' as math;
-
 import 'package:permission_handler/permission_handler.dart';
+
 
 class Compass extends StatefulWidget {
   @override
@@ -122,10 +122,9 @@ class _CompassState extends State<Compass> {
             child: OutlineButton(
               child: Text('Request Permissions'),
               onPressed: () {
-                PermissionHandler().requestPermissions(
-                    [PermissionGroup.locationWhenInUse]).then((ignored) {
-                  _fetchPermissionStatus();
-                });
+                Permission.location.request().then(
+                  (status) => status.isGranted ?? _fetchPermissionStatus()
+                );
               },
             ),
           ),
@@ -135,7 +134,7 @@ class _CompassState extends State<Compass> {
             child: OutlineButton(
               child: Text('Open App Settings'),
               onPressed: () {
-                PermissionHandler().openAppSettings().then((opened) {
+                openAppSettings().then((opened) {
                   //
                 });
               },
@@ -147,13 +146,8 @@ class _CompassState extends State<Compass> {
     );
   }
 
-  void _fetchPermissionStatus() {
-    PermissionHandler()
-        .checkPermissionStatus(PermissionGroup.locationWhenInUse)
-        .then((status) {
-      if (mounted) {
-        setState(() => _hasPermissions = status == PermissionStatus.granted);
-      }
-    });
+  void _fetchPermissionStatus() async {
+        final _status = await Permission.location.status;
+       setState(() => _hasPermissions = _status == PermissionStatus.granted);
   }
 }

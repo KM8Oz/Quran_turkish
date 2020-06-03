@@ -7,11 +7,11 @@ class ThemeNotifier with ChangeNotifier {
   static List<ThemeData> themes = [
     ThemeData(
         brightness: Brightness.light,
-        primarySwatch: Colors.blue.shade400,
-        scaffoldBackgroundColor: Color(0xffeaf0fe)),
+        primarySwatch: Colors.blue,
+        scaffoldBackgroundColor:Colors.white),
     ThemeData(
       brightness: Brightness.dark,
-      primarySwatch: Colors.blue.shade400,
+      primarySwatch: Colors.blue,
       canvasColor: Colors.black12,
     ),
   ];
